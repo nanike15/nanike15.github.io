@@ -1,0 +1,141 @@
+img{
+    width: 100%;
+}
+.crocheting img{
+    /* width: 390px; */
+    border-radius: 15px;
+    padding: 25px;
+}
+.hh1{
+    background-color: #445F3B;
+    color: #8EA076;
+     text-align: center;
+    box-shadow: #31293F;
+    padding-bottom: 10px;
+}
+.crocheting{
+    background-color: #8EA076;
+}
+.crocheting h2{
+    color: #445F3B;
+}
+.crocheting p{
+    color: #232e1f;
+}
+.crocheting li{
+    color: #445F3B;
+}
+
+
+
+
+.needlepoint-knitting img{
+    /* width: 370px; */
+    border-radius: 15px;
+    padding: 25px;
+}
+.needlepoint-knitting h1{
+    background-color: #362E23;
+    color: #6F6E31;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.needlepoint-knitting{
+    background-color: #6F6E31;
+    padding-bottom: 20px;
+}
+.needlepoint-knitting h2{
+    color: #362E23;
+}
+.needlepoint-knitting h3{
+    color: #362E23;
+}
+.needlepoint-knitting p{
+    color: #362E23;
+}
+.needlepoint-knitting li{
+    color: #362E23;
+}
+.needlepoint-knitting h4{
+    color: #362E23;
+}
+
+
+
+
+.embroidery img{
+    /* width: 370px; */
+    border-radius: 15px;
+    padding: 25px;
+}
+.embroidery h1{
+    text-align: center;
+    color: #efeeb6;
+    background-color: #28340B;
+    padding-bottom: 10px;
+}
+.embroidery h2{
+    color: #efeeb6;
+}
+.embroidery h3{
+    color: #efeeb6;
+}
+.embroidery p{
+    color: #efeeb6;
+}
+.embroidery{
+    background-color: #4b4c2c;
+    padding-bottom: 20px;
+}
+.embroidery li{
+    color: #efeeb6;
+}
+
+
+.big-text{
+    font-size: 1.1em;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: 900;
+}
+
+
+.video{
+
+    background-color: #2e382c;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.video h2{
+    color: #30352E;
+    text-align: center;
+    background-color: #889687;
+}
+
+
+
+.pidval{
+    background-color: #232e1f;
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.pidval h2{
+    text-align: center;
+}
+
+
+.socio-link{
+    font-size: 2em;
+    text-decoration: none;
+    color: #889687;
+}
+footer{
+    background-color: #232e1f;
+    padding: 10px 0;
+    margin-top: 20px;
+    color: #889687;
+}
+.logo-img{
+    width: 80px;
+}
